@@ -30,6 +30,7 @@ if(asd===true){
 
 } 
 
+
 else if (asd===false){
 
   console.log ('mark的BMI比john低')
